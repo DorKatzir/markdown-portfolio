@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Frontend Skills** : Html, Css, Sass, vanilaJS, jQuery, Angular, AngularJs
+<br>
+**Backend Skills** : PHP, NodeJS, mySQL, Laravel, MongoDB, Firebase
